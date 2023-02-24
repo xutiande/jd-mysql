@@ -1,0 +1,2 @@
+# jd-mysql
+python/mysql
